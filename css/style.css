@@ -3,6 +3,7 @@ body {
 }
 h1 {
   font-size: 36px;
+  color: blue;
 }
 .singer-name {
   font-style: italic;
